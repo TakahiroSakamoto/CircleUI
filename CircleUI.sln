@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FEC79C46-A586-D25D-0BBF-EA159550EB8A}") = "CircleUI", "Assembly-CSharp.csproj", "{4EA68F9A-8232-DD9F-111A-11B3D9252291}"
+EndProject
+Project("{FEC79C46-A586-D25D-0BBF-EA159550EB8A}") = "CircleUI", "Assembly-CSharp-Editor.csproj", "{41EBFCB1-28DA-B829-0FD4-EE6A5FE7851A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA68F9A-8232-DD9F-111A-11B3D9252291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA68F9A-8232-DD9F-111A-11B3D9252291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA68F9A-8232-DD9F-111A-11B3D9252291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA68F9A-8232-DD9F-111A-11B3D9252291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EBFCB1-28DA-B829-0FD4-EE6A5FE7851A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EBFCB1-28DA-B829-0FD4-EE6A5FE7851A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EBFCB1-28DA-B829-0FD4-EE6A5FE7851A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EBFCB1-28DA-B829-0FD4-EE6A5FE7851A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
